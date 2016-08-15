@@ -6,17 +6,20 @@ on Netbeans IDE.
 
 for testing and usage changes need to be made in the following files and folders.
 
-1. PHP\*
-2. JAVA\src\inv\com\me\shop\Constants.java
-3. JAVA\src\inv\com\me\shop\DateCompare.java
-4. JAVA\src\inv\com\me\shop\SelectDbFolderForm.java
-5. JAVA\src\inv\com\me\shop\communicator.java
-6. JAVA\src\inv\com\me\shop\AuthPasswordChange.java
-7. JAVA\src\inv\com\me\shop\Activation.java
-8. JAVA\src\inv\com\me\shop\AuthPasswordCheck.java
+1. PHP\a.php
+2. PHP\connect_db.php
+3. PHP\getDate.php
+4. PHP\mysoftware.sql
+5. JAVA\src\inv\com\me\shop\Constants.java
+6. JAVA\src\inv\com\me\shop\DateCompare.java
+7. JAVA\src\inv\com\me\shop\SelectDbFolderForm.java
+8. JAVA\src\inv\com\me\shop\communicator.java
 9. JAVA\src\inv\com\me\shop\AuthPasswordChange.java
-10. JAVA\src\inv\com\me\shop\Loading.java
-11. Also make changes to subsequent .form files.
-12. Rebuild code again.
+10. JAVA\src\inv\com\me\shop\Activation.java
+11. JAVA\src\inv\com\me\shop\AuthPasswordCheck.java
+12. JAVA\src\inv\com\me\shop\AuthPasswordChange.java
+13. JAVA\src\inv\com\me\shop\Loading.java
+14. Also make changes to subsequent .form files.
+15. Rebuild code again.
 
 all necessary libraries are included.
