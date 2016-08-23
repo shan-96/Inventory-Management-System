@@ -4,6 +4,8 @@ A stock management billing barcode validation software that uses online authoris
 of software key and generates various reports for enterprise management built in Java/PHP
 on Netbeans IDE.
 
+authors - shantanu patil sarfraz ahmad
+
 for testing and usage changes need to be made in the following files and folders.
 
 1. PHP\a.php
